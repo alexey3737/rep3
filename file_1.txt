@@ -1,3 +1,6 @@
-Hello
+[] _ [name]
 World
-You so 
+<<<<<<< HEAD
+You so cool 
+=======
+>>>>>>> 4ab7e7156c77c0465b69d4ecc2f2d9a47fbbca67
